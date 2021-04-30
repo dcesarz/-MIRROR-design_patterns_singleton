@@ -1,3 +1,5 @@
+# THE ASSIGNMENT : 
+
 # Wzorce: Singleton
 
 | Termin oddania | Punkty     |
